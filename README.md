@@ -4,7 +4,11 @@
 
 ## 👋 Hello, I'm Dana Mohammad Khairallah
 
-📍 Amman, Jordan📧 Email: danamohammd247@gmail.com📞 +962 7 8088 3837🔗 LinkedIn • GitHub
+📍 Amman, Jordan
+📧 Email: danamohammd247@gmail.com
+📞 +962 7 8088 3837
+🔗 LinkedIn 
+• GitHub
 ---
 
 ### 🛠 About Me
