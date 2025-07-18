@@ -4,9 +4,7 @@
 
 ## 👋 Hello, I'm Dana Mohammad Khairallah
 
-📍 Amman, Jordan • 📧 danamohammd247@gmail.com • 📞 +962780883837  
-🔗 [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/danamohammadkhairallah)
-
+📍 Amman, Jordan📧 Email: danamohammd247@gmail.com📞 +962 7 8088 3837🔗 LinkedIn • GitHub
 ---
 
 ### 🛠 About Me
@@ -51,15 +49,5 @@ Graduation project + multiple coursework-based web apps.
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danakhairallah&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakhairallah&layout=compact&theme=radical)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=danakhairallah&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=danakhairallah&theme=radical)](https://git.io/streak-stats)
 
----
-
-> “My goal is to use technology to build impactful solutions.”
-
----
 
